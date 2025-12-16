@@ -1,2 +1,2 @@
 # FOSS_Sample
-Foss Workshop Sampe
+Foss Workshop Sample
